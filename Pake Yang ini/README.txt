@@ -1,0 +1,1 @@
+Put Your Photo in /ImageAttendance to Recognizing for Attenance System then Run "AttendanceProject"
